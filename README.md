@@ -5,4 +5,4 @@
 - Using Git commands.
 - Inviting another developer.
 -Creating and approving a Pull request.
--Resolving a merge conflict.
+-Resolving a merge conflict
